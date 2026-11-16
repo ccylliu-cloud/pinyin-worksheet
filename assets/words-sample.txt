@@ -1,0 +1,54 @@
+# 示例词表：每行「词语 拼音」，拼音音节之间用空格分开，音节数必须等于字数
+# 支持空格、逗号、竖线三种分隔：麻雀 má què / 麻雀,má què / 麻雀|má què
+麻雀 má què
+悄悄 qiāo qiāo
+紧张 jǐn zhāng
+浑身 hún shēn
+牺牲 xī shēng
+强大 qiáng dà
+力量 lì liàng
+勇气 yǒng qì
+嗅觉 xiù jué
+惊呆 jīng dāi
+鸟巢 niǎo cháo
+打猎 dǎ liè
+猛烈 měng liè
+林荫路 lín yīn lù
+白桦 bái huà
+无可奈何 wú kě nài hé
+分明 fēn míng
+绝望 jué wàng
+尖叫 jiān jiào
+身躯 shēn qū
+掩护 yǎn hù
+拯救 zhěng jiù
+幼儿 yòu ér
+嘶哑 sī yǎ
+搏斗 bó dòu
+庞大 páng dà
+愣住 lèng zhù
+遭受 zāo shòu
+幸福 xìng fú
+敬佩 jìng pèi
+即使 jí shǐ
+茂盛 mào shèng
+照耀 zhào yào
+喷射 pēn shè
+立即 lì jí
+坚定 jiān dìng
+痕迹 hén jì
+结账 jié zhàng
+住址 zhù zhǐ
+提纲 tí gāng
+花卉 huā huì
+玫瑰 méi guī
+牡丹 mǔ dān
+花蕾 huā lěi
+茉莉 mò lì
+海棠 hǎi táng
+执着 zhí zhuó
+下降 xià jiàng
+拟人 nǐ rén
+修辞 xiū cí
+强调 qiáng diào
+生动形象 shēng dòng xíng xiàng
