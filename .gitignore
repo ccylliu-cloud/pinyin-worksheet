@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+output/
+tests/output/
+dist/
+backups/
+*.pdf
+*.png
+*.zip
+*.report.json
+.DS_Store
+words.txt
+!examples/*.pdf
+!examples/*.png
